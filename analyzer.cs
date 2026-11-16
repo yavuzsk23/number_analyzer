@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.Write("enter a number");
+        Console.Write("enter a number ");
         int number = int.Parse(Console.ReadLine());
 
         if (number % 2 == 0)
